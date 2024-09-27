@@ -1,4 +1,5 @@
-**Use Case:** Analyzing the gene expression profile of GDP-Fucose
+## **Use Case:** Analyzing the gene expression profile of GDP-Fucose
+---
 [GlycoCARTA](https://vgdev.cedar.buffalo.edu/glycocarta)
 
 * GDP-Fucose an essential precursor for glycosylation via fucose salvage pathway.
